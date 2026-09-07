@@ -21,6 +21,7 @@ jobs:
 
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      GITHUB_TOKEN: ${{ github.token }}
       MODEL: gpt-5-mini
       EMBEDDING_MODEL: text-embedding-3-small
       SIMILARITY_THRESHOLD: "0.90"
