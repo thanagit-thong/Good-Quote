@@ -1,1 +1,144 @@
+name: Daily Quote Agent
 
+on:
+  schedule:
+    - cron: "30 7 * * *"
+      timezone: "Europe/Copenhagen"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-good-quote
+  cancel-in-progress: false
+
+jobs:
+  daily-quote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      MODEL: gpt-5-mini
+      EMBEDDING_MODEL: text-embedding-3-small
+      SIMILARITY_THRESHOLD: "0.90"
+      REPOSITORY: ${{ github.repository }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python packages
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate quote and update canonical Home
+        id: quote
+        run: |
+          python scripts/daily_quote.py > quote_result.json
+          cat quote_result.json
+
+      - name: Create branch
+        id: branch
+        run: |
+          BRANCH="daily-quote-$(date -u +%Y-%m-%d-%H%M%S)"
+          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
+          git config user.name "Good-Quote AI Agent"
+          git config user.email "good-quote-agent@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add content/Home.md
+          git commit -m "Add daily quote"
+          git push --set-upstream origin "$BRANCH"
+
+      - name: Create Pull Request
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          QUOTE=$(python - <<'PY'
+          import json
+          d=json.load(open("quote_result.json"))
+          print(d["quote"])
+          PY
+          )
+          AUTHOR=$(python - <<'PY'
+          import json
+          d=json.load(open("quote_result.json"))
+          print(d["author"])
+          PY
+          )
+          CATEGORY=$(python - <<'PY'
+          import json
+          d=json.load(open("quote_result.json"))
+          print(d["category"])
+          PY
+          )
+          SOURCE=$(python - <<'PY'
+          import json
+          d=json.load(open("quote_result.json"))
+          print(d["source_url"])
+          PY
+          )
+
+          URL=$(gh pr create \
+            --repo "$GITHUB_REPOSITORY" \
+            --base main \
+            --head "${{ steps.branch.outputs.branch }}" \
+            --title "Daily Quote — $(date -u +%Y-%m-%d)" \
+            --body "## Daily Quote
+
+          > $QUOTE
+
+          — $AUTHOR
+
+          **Category:** $CATEGORY
+
+          **Source:** $SOURCE
+
+          Generated and duplicate-checked automatically by the Good-Quote AI Agent.")
+
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+
+      - name: Auto-merge Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr merge "${{ steps.pr.outputs.url }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --squash \
+            --delete-branch
+
+      - name: Sync canonical Home to Wiki
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+
+          TMP="$(mktemp -d)"
+          WIKI="$TMP/wiki"
+
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" "$WIKI"
+
+          cp content/Home.md "$WIKI/Home.md"
+
+          cd "$WIKI"
+          git config user.name "Good-Quote AI Agent"
+          git config user.email "good-quote-agent@users.noreply.github.com"
+
+          git add Home.md
+
+          if git diff --cached --quiet; then
+            echo "Wiki Home already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update daily quote"
+          git push origin HEAD
