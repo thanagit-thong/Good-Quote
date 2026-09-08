@@ -53,8 +53,8 @@ jobs:
         run: |
           BRANCH="daily-quote-$(date -u +%Y-%m-%d-%H%M%S)"
           echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
-          git config user.name "Good-Quote AI Agent"
-          git config user.email "good-quote-agent@users.noreply.github.com"
+          git config user.name "Thanagit Good-Quote AI Agent"
+          git config user.email "thanagit-good-quote-agent@users.noreply.github.com"
           git checkout -b "$BRANCH"
           git add content/Home.md
           git commit -m "Add daily quote"
@@ -105,7 +105,7 @@ jobs:
 
           **Source:** $SOURCE
 
-          Generated and duplicate-checked automatically by the Good-Quote AI Agent.")
+          Generated and duplicate-checked automatically by the Thanagit Good-Quote AI Agent.")
 
           echo "url=$URL" >> "$GITHUB_OUTPUT"
 
