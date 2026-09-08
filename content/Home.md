@@ -15,6 +15,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 
 ## Quote for your Work
+
+### 🌟 "And the only way to do great work is to love what you do."
+
+— Steve Jobs
+
+**The Source:** https://news.stanford.edu/2005/06/14/jobs-061505/
+
+**Category:** Work
+
+**Added:** 2026-09-08
+
+
 ### 🌟 *"The secret of getting ahead is getting started."*<BR>
 — _*Mark Twain*_<BR>
 
