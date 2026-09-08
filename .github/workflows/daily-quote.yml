@@ -144,3 +144,19 @@ jobs:
 
           git commit -m "Update daily quote"
           git push origin HEAD
+          
+      - name: Disable workflow after December 31, 2026
+        if: success() && format('{0}', github.event.schedule) != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TODAY=$(TZ=Europe/Copenhagen date +%Y-%m-%d)
+
+          if [ "$TODAY" = "2026-12-31" ]; then
+            echo "December 31, 2026 reached."
+            echo "Disabling Daily Quote Agent."
+            gh workflow disable daily-quote.yml
+          else
+            echo "Workflow remains active: $TODAY"
+          fi
+      
