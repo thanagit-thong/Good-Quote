@@ -47,6 +47,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+
+— Maya Angelou
+
+**The Source:** https://www.virago.co.uk/virago-news/2020/10/28/read-an-extract-from-letters-to-my-daughter/
+
+**Category:** Life
+
+**Added:** 2026-09-08
+
+
+
 ### 🌟 "Life is what happens to us while we are making other plans."
 
 — Allen Saunders
