@@ -1,4 +1,4 @@
-# DEMO FOR SIMPLE AUTOMATION PROJECT USING AI + GITHUB (in 30-60 minutes)
+# DEMO: SIMPLE AUTOMATION PROJECT USING AI + GITHUB (in 30-60 minutes)
 
 **Welcome to Project "GOOD QUOTE"**<BR><BR>
 This is my personal sandbox project where I experiment with automation templates. <BR>
@@ -21,7 +21,7 @@ The mission is simple: Use an AI chatbot to search the internet for a fresh quot
 2. The Update: The system automatically updates the main Wiki page (linked to [Home.md](https://github.com/thanagit-thong/Good-Quote/blob/main/content/Home.md) ).
 3. The Magic: I've enabled auto-merge permissions so everything flows smoothly.
 <BR>
-Ready to see it in action? [Check it out Here!](https://www.reddit.com/r/n8n/comments/1oa4kbp/comment/p5csnjx/?force-legacy-sct=1)
+Ready to see it in action? [Check it out Here](https://www.reddit.com/r/n8n/comments/1oa4kbp/comment/p5csnjx/?force-legacy-sct=1)
 <BR><BR>
 
 
@@ -46,7 +46,6 @@ Running this demo uses both, so it will consume a bit of your paid quota!
 
 
 ## KNOWN ISSUE
-
 - **Cron Jobs:** Sometimes the automated daily schedule doesn't run exactly on time.<BR>
 This is a known limitation on GitHub's side.<BR>
 You can read more about it in this [Github Community discussion](https://github.com/orgs/community/discussions/147369) and [blog](https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/)
