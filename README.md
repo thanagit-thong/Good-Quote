@@ -47,7 +47,21 @@ STEP 1. Complete Prerequisite
 
 STEP 2. Fork this repo to your own github
 
-STEP 3. Go to _Action_ and run your first workflow manually.
+STEP 3. Open your wiki page. Create the first page name _Home_ 
+You can copy my home.md or create from scratch with following template:
+
+```text
+# Good Quotes
+
+## Quote for your Work
+
+### 🌟 "Sample Quote"
+— Author Name
+
+## Quote for your Life
+```
+
+STEP 4. Go to _Action_ and run your first workflow manually.
 
 Final step, check whether your job runs without errors. If successful, you should see your first post in ⁠Home.md⁠ and on the main Wiki page. 
 A new quote will be posted there once a day.
