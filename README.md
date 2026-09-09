@@ -44,13 +44,12 @@ Even I schedule at every 7:30 CET, but Github can't commit with time precisely :
 ## 🔒 SECURITY FIRST!
 This project requires an API key from your chosen AI provider (I use OpenAI).<BR>
 To keep things secure, your API secret is stored separately **never hardcoded into the repository**.<BR> 
-If you fork this project, please <ins>NEVER</ins> put your API secrets directly into your code!
+If you fork this project, <ins>NEVER</ins> put your API secrets directly into your code!
 <BR><BR>
 
 ## SECRET TIP!
 - **Get Free Credits:** You can actually use older OpenAI models like GPT-5-mini for free up to a certain limit!<BR> 
 The only catch is that your account must be at least Tier-1 (which means you've added a payment method and deposited a minimum of $5 into your wallet).<BR> 
-If you prefer, you can also switch to alternative providers that are 100% free.
 <BR>
 
 [Check it out Here](https://www.reddit.com/r/n8n/comments/1oa4kbp/comment/p5csnjx/?force-legacy-sct=1)
