@@ -59,6 +59,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The unexamined life is not worth living."
+
+— Socrates (as recorded by Plato, Apology 38a)
+
+**The Source:** https://www.perseus.tufts.edu/hopper/text?doc=plat.+apol.+38a
+
+**Category:** Life
+
+**Added:** 2026-09-09
+
+
+
 ### 🌟 "You may not control all the events that happen to you, but you can decide not to be reduced by them."
 
 — Maya Angelou
