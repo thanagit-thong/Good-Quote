@@ -61,7 +61,7 @@ You can copy my home.md or create from scratch with following template:
 ## Quote for your Life
 ```
 
-STEP 4. Go to _Action_ and run your first workflow manually.
+STEP 4. Go to _Actions_ → _Daily Quote Agent_ → Run Workflow.
 
 Final step, check whether your job runs without errors. If successful, you should see your first post in ⁠Home.md⁠ and on the main Wiki page. 
 A new quote will be posted there once a day.
