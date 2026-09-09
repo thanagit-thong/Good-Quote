@@ -24,6 +24,7 @@ The mission is simple: Use an AI chatbot to search the internet for a fresh quot
 2. The Update: The system automatically updates the main Wiki page (linked to [Home.md](https://github.com/thanagit-thong/Good-Quote/blob/main/content/Home.md) ).
 3. The Magic: I've enabled auto-merge permissions so everything flows smoothly.
 <BR>
+
 **SAMPLE:**<BR>
 Each quote was added on daily basis. 
 Even I schedule at every 7:30 CET, but Github can't commit with time precisely :) It was posted with 4-5 hours delayed
@@ -72,7 +73,15 @@ Running this demo uses both, so it will consume a bit of your paid quota!
 
 
 ## KNOWN ISSUE
-- **Cron Jobs:** Sometimes the automated daily schedule doesn't run exactly on time.<BR>
+- **Cron Jobs dalay:** Sometimes the automated daily schedule doesn't run exactly on time.<BR>
 This is a known limitation on GitHub's side.<BR>
 You can read more about it in this [Github Community discussion](https://github.com/orgs/community/discussions/147369) and [blog](https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/)
+
+- **Error Jobs:** If you experience error after you first run at ACTIONS,
+<img width="341" height="55" alt="image" src="https://github.com/user-attachments/assets/bbcf2302-c079-461c-ae2b-942a2b7826ba" />
+
+Beside google it, simply capture screen to ask any AI Chatbot like ChatGPT, Claude, Gemini, Copilot, whatever. And wait for the magic solutions :)
+Just recheck you don't capture any sensitive message.
+For example, below error caused by missing permission to model 'text-embedding-3-small' which I should grant it at OpenAI platform before rerun job:
+<img width="1244" height="777" alt="image" src="https://github.com/user-attachments/assets/5eba5d88-b223-40a8-8021-db254d2cb059" />
 
