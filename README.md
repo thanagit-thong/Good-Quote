@@ -1,9 +1,9 @@
-# DEMO: SIMPLE AUTOMATION PROJECT USING AI + GITHUB (in 30-60 minutes)
+# DEMO: Deploy daily AI-Driven Wiki Generator at GitHub (in 30 minutes)
 
-**Welcome to Project "GOOD QUOTE"**<BR><BR>
-This is my personal sandbox project where I experiment with automation templates. <BR>
-While it started as a private test, it is super easy to understand and can be easily customized for almost any use case you have in mind!
-<BR><BR>
+**Welcome to an AI-driven demo Project "GOOD QUOTE"**<BR><BR>
+
+**Level:** Beginner
+
 
 ## 🎯 THE GOAL
 Using AI model to search some Quote from the internet and update it to  automatically once a day !<BR>
@@ -39,6 +39,18 @@ Even I schedule at every 7:30 CET, but Github can't commit with time precisely :
 - OpenAI API Key (Secret) to be updated at Github _Secrets and variables_ under name _OPENAI_API_KEY_ <BR>
 <img width="1278" height="871" alt="image" src="https://github.com/user-attachments/assets/88bd8431-fc32-4d15-8fc6-039ee3dd848d" />
   
+<BR><BR>
+
+**HOW TO START**
+
+STEP 1. Complete Prerequisite
+
+STEP 2. Fork this repo to your own github
+
+STEP 3. Go to _Action_ and run your first workflow manually.
+
+Final step, check whether your job runs without errors. If successful, you should see your first post in ⁠Home.md⁠ and on the main Wiki page. 
+A new quote will be posted there once a day.
 <BR><BR>
 
 ## 🔒 SECURITY FIRST!
