@@ -4,8 +4,8 @@ Project "GOOD QUOTE" is my private experimental to create a template use case as
 But it's easy to understand, and can be adopted to various use case.
 
 ## GOAL:
-Using AI Chatbot to search some Quote from the internet and update it to my WIKI automatically once a day !
-
+Using AI Chatbot to search some Quote from the internet and update it to [my WIKI](https://github.com/thanagit-thong/Good-Quote/wiki) automatically once a day !
+Rule, it must smart enough to not remove any existing contents. Just insert new quote under the right category, WORK or LIFE.
 
 ## HOW: 
 I use OpenAI model GPT-5-mini to seach Quote on the internet using web search.
