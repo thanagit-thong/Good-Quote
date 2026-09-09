@@ -51,12 +51,15 @@ If you fork this project, please <ins>NEVER</ins> put your API secrets directly 
 The only catch is that your account must be at least Tier-1 (which means you've added a payment method and deposited a minimum of $5 into your wallet).<BR> 
 If you prefer, you can also switch to alternative providers that are 100% free.
 <BR>
+
 [Check it out Here](https://www.reddit.com/r/n8n/comments/1oa4kbp/comment/p5csnjx/?force-legacy-sct=1)
+
 > How to Activate Free Daily Tokens<BR>
 > 1️⃣ Go to https://platform.openai.com and sign in.<BR>
 > 2️⃣ Navigate to Settings → Organization → Data Controls → Sharing<BR>
 > 3️⃣ Under “Share inputs and outputs with OpenAI”, select Enabled for all projects (or only for specific ones).<BR>
 > 4️⃣ Click Save.
+
 <BR><BR>
 
 - **Keep it Public:** If you decide to proceed with OpenAI's free credit, <ins>Do not</ins> use it for sensitive or personal data.<BR>
