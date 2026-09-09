@@ -14,6 +14,9 @@ The mission is simple: Use an AI chatbot to search the internet for a fresh quot
 **The Golden Rule:** 
 - The AI must be smart enough to never overwrite or delete existing content. 
 - It should only neatly insert the new quote under the correct category: WORK or LIFE.
+- Do NOT invent quotes.
+- Do NOT use Anonymous, Unknown
+- Do NOT rely only on quote aggregation websites
 <BR><BR>
 
 ## 🛠️ HOW IT WORKS
@@ -21,10 +24,20 @@ The mission is simple: Use an AI chatbot to search the internet for a fresh quot
 2. The Update: The system automatically updates the main Wiki page (linked to [Home.md](https://github.com/thanagit-thong/Good-Quote/blob/main/content/Home.md) ).
 3. The Magic: I've enabled auto-merge permissions so everything flows smoothly.
 <BR>
-SAMPLE: <BR>
+**SAMPLE:**<BR>
 Each quote was added on daily basis. 
 Even I schedule at every 7:30 CET, but Github can't commit with time precisely :) It was posted with 4-5 hours delayed
 <img width="1039" height="697" alt="image" src="https://github.com/user-attachments/assets/e1d46c18-c569-48b6-a1db-be34045c7fb3" />
+<BR><BR>
+
+**PROJECT STRUCTURE:**<BR>
+<img width="589" height="245" alt="image" src="https://github.com/user-attachments/assets/252abb12-4da3-46e1-99aa-2501f5c79575" />
+<BR><BR>
+
+**PREREQUISITE:**<BR>
+- OpenAI API Key (Secret) to be updated at Github _Secrets and variables_ under name _OPENAI_API_KEY_ <BR>
+<img width="1278" height="871" alt="image" src="https://github.com/user-attachments/assets/88bd8431-fc32-4d15-8fc6-039ee3dd848d" />
+  
 <BR><BR>
 
 ## 🔒 SECURITY FIRST!
