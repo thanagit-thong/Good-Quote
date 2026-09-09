@@ -1,39 +1,50 @@
-# DEMO FOR AUTOMATION USING AI + GITHUB
+# DEMO FOR SIMPLE AUTOMATION PROJECT USING AI + GITHUB (in 30-60 minutes)
 
-Project "GOOD QUOTE" is my private experimental to create a template use case as sandbox.
-But it's easy to understand, and can be adopted to various use case.
+**Welcome to Project "GOOD QUOTE"**
+This is my personal sandbox project where I experiment with automation templates. 
+While it started as a private test, it is super easy to understand and can be easily customized for almost any use case you have in mind!
 
-## GOAL:
-Using AI Chatbot to search some Quote from the internet and update it to [my WIKI](https://github.com/thanagit-thong/Good-Quote/wiki) automatically once a day !
+
+## 🎯 THE GOAL
+Using AI Chatbot to search some Quote from the internet and update it to  automatically once a day !
 Rule, it must smart enough to not remove any existing contents. Just insert new quote under the right category, WORK or LIFE.
 
-## HOW: 
-I use OpenAI model GPT-5-mini to seach Quote on the internet using web search.
-Then update into my WIKI main page linked to Home.md 
-I enable auto merge permission.
+The mission is simple: Use an AI chatbot to search the internet for a fresh quote every day and automatically update [my WIKI](https://github.com/thanagit-thong/Good-Quote/wiki)!
 
-It requires API key from your chosen AI Model (hereby I use OpenAI).
-For the sake of security, Secret is designed to store separately as typical security best practice. 
-If you fork this project, NEVER put API secret into your code repo directly.
+**The Golden Rule:** 
+- The AI must be smart enough to never overwrite or delete existing content. 
+- It should only neatly insert the new quote under the correct category: WORK or LIFE.
 
-ready ?
-Check out [Here](https://www.reddit.com/r/n8n/comments/1oa4kbp/comment/p5csnjx/?force-legacy-sct=1)
+
+## 🛠️ HOW IT WORKS
+1. The AI: I use OpenAI's GPT-5-mini model to scan the web for great quotes.
+2. The Update: The system automatically updates the main Wiki page (linked to [Home.md](https://github.com/thanagit-thong/Good-Quote/blob/main/content/Home.md) ).
+3. The Magic: I've enabled auto-merge permissions so everything flows smoothly.
+
+Ready to see it in action? [Check it out Here!](https://www.reddit.com/r/n8n/comments/1oa4kbp/comment/p5csnjx/?force-legacy-sct=1)
+
+## 🔒 Security First!
+This project requires an API key from your chosen AI provider (I use OpenAI). 
+To keep things secure, your API secret is stored separately—never hardcoded into the repository. 
+If you fork this project, please <ins>NEVER</ins> put your API secrets directly into your code!
+
 
 ## SECRET TIP!
-You are allowed to consume some older OpenAI model like GPT-5-mini for free at certain amount.
-The only condition is your account must be at least TIER-1.
-Meaning you have to add payment method and put minimum amount at least 5$ into your wallet.
-Anyway, you can use any alternative model provider that does not force you to pay anything as well.
+- **Get Free Credits:** You can actually use older OpenAI models like GPT-5-mini for free up to a certain limit! 
+The only catch is that your account must be at least Tier-1 (which means you've added a payment method and deposited a minimum of $5 into your wallet). 
+If you prefer, you can also switch to alternative providers that are 100% free.
 
-WARNING! 
-- Be sure that you are not using it for sensitive data or with personal data ! 
-Recommended this solution only if you run it with anything you can share with anyone on earth :) 
-- Not all tool is included by free quota. Chat tool is free, but others such as Web search, Text embedding, etc. are not.
-While running this demo, it also consumes Web search + text embedding as well which will consume quota from your pocket.
+- **Keep it Public:** If you decide to proceed with OpenAI's free credit, <ins>Do not</ins> use it for sensitive or personal data.
+Only use it for information you'd be perfectly happy sharing with the entire world!
+
+- **Watch Your Wallet:** While the basic chat function might be covered under free tiers, other features—like Web Search and Text Embedding—are not. Running this demo uses both, so it will consume a bit of your paid quota!
+
+
 
 
 ## KNOWN ISSUE:
 
-- Cron job does not run as scheduled<BR>
-This is out of our hand as per this [Github Community discussion](https://github.com/orgs/community/discussions/147369) and [blog](https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/)
+- **Cron Jobs:** Sometimes the automated daily schedule doesn't run exactly on time.
+This is a known limitation on GitHub's side. 
+You can read more about it in this [Github Community discussion](https://github.com/orgs/community/discussions/147369) and [blog](https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/)
 
