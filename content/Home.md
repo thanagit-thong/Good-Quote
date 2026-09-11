@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Far and away the best prize that life offers is the chance to work hard at work worth doing; and this is a prize open to every man, for there can be no work better worth doing than that done to keep in health and comfort and with reasonable advantages those immediately dependent upon the husband, the father, or the son."
+
+— Theodore Roosevelt
+
+**The Source:** https://www.gutenberg.org/files/66890/66890-h/66890-h.htm
+
+**Category:** Work
+
+**Added:** 2026-09-11
+
+
+
 ### 🌟 "And the only way to do great work is to love what you do."
 
 — Steve Jobs
