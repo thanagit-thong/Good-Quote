@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Genius is one percent inspiration and ninety-nine percent perspiration."
+
+— Thomas A. Edison
+
+**The Source:** https://harpers.org/archive/1932/09/edison-in-his-laboratory/
+
+**Category:** Work
+
+**Added:** 2026-09-15
+
+
+
 ### 🌟 "Work is love made visible."
 
 — Kahlil Gibran
