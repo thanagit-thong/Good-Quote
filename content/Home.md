@@ -95,6 +95,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "To live is the rarest thing in the world. Most people exist—that is all."
+
+— Oscar Wilde
+
+**The Source:** https://www.gutenberg.org/files/33979/33979-h/33979-h.htm
+
+**Category:** Life
+
+**Added:** 2026-09-17
+
+
+
 ### 🌟 "When we are no longer able to change a situation, we are challenged to change ourselves."
 
 — Viktor E. Frankl
