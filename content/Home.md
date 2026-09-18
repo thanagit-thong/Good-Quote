@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Don't watch the clock; do what it does. Keep going."
+
+— Sam Levenson
+
+**The Source:** https://www.barnesandnoble.com/w/you-dont-have-to-be-in-whos-who-to-know-whats-what-sam-levenson/1124449700
+
+**Category:** Work
+
+**Added:** 2026-09-18
+
+
+
 ### 🌟 "Genius is one percent inspiration and ninety-nine percent perspiration."
 
 — Thomas A. Edison
