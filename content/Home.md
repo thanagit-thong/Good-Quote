@@ -107,6 +107,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Waste no more time arguing what a good man should be. Be one."
+
+— Marcus Aurelius
+
+**The Source:** https://dailystoic.com/waste-no-time-arguing-good-man-one/
+
+**Category:** Life
+
+**Added:** 2026-09-19
+
+
+
 ### 🌟 "To live is the rarest thing in the world. Most people exist—that is all."
 
 — Oscar Wilde
