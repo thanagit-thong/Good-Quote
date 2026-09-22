@@ -107,15 +107,15 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
-### 🌟 "If we have our own why of life, we shall get along with almost any how."
+### 🌟 "Do what you can, with what you've got, where you are."
 
-— Friedrich Nietzsche
+— Squire Bill Widener (as quoted by Theodore Roosevelt)
 
-**The Source:** https://quoteinvestigator.com/2019/10/09/why-how/
+**The Source:** https://www.gutenberg.org/files/3335/3335-h/3335-h.htm
 
 **Category:** Life
 
-**Added:** 2026-09-21
+**Added:** 2026-09-22
 
 
 
