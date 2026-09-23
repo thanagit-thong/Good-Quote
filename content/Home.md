@@ -107,6 +107,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "In three words, I can sum up everything I've learned about life. It goes on."
+
+— Robert Frost
+
+**The Source:** https://quoteinvestigator.com/2018/04/01/life-goes/
+
+**Category:** Life
+
+**Added:** 2026-09-23
+
+
+
 ### 🌟 "Do what you can, with what you've got, where you are."
 
 — Squire Bill Widener (as quoted by Theodore Roosevelt)
