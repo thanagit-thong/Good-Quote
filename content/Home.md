@@ -107,6 +107,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "In the middle of winter I at last discovered that there was in me an invincible summer."
+
+— Albert Camus
+
+**The Source:** https://wp.penguin.co.uk/wp-content/uploads/2024/03/fivedials_no30.pdf
+
+**Category:** Life
+
+**Added:** 2026-09-24
+
+
+
 ### 🌟 "In three words, I can sum up everything I've learned about life. It goes on."
 
 — Robert Frost
