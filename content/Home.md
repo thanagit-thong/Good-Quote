@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Nothing will work unless you do."
+
+— Maya Angelou
+
+**The Source:** https://archive.org/details/wouldnttakenothi0000ange_d8e3
+
+**Category:** Work
+
+**Added:** 2026-09-25
+
+
+
 ### 🌟 "Don't watch the clock; do what it does. Keep going."
 
 — Sam Levenson
