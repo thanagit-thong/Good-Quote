@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Well done is better than well said."
+
+— Benjamin Franklin
+
+**The Source:** https://www.gutenberg.org/cache/epub/36151/pg36151-images.html
+
+**Category:** Work
+
+**Added:** 2026-09-27
+
+
+
 ### 🌟 "Nothing will work unless you do."
 
 — Maya Angelou
