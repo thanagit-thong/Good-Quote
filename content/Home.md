@@ -131,6 +131,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "We can act as if there were a God; feel as if we were free; consider Nature as if she were full of special designs; lay plans as if we were to be immortal; and we find then that these words do make a genuine difference in our moral life."
+
+— William James
+
+**The Source:** https://www.gutenberg.org/files/621/621-h/621-h.html
+
+**Category:** Life
+
+**Added:** 2026-09-28
+
+
+
 ### 🌟 "All you need in this life is ignorance and confidence; then success is sure."
 
 — Mark Twain
