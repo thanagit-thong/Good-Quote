@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "You can't use up creativity. The more you use, the more you have."
+
+— Maya Angelou
+
+**The Source:** https://quoteinvestigator.com/2014/03/03/creative-maya/
+
+**Category:** Work
+
+**Added:** 2026-09-29
+
+
+
 ### 🌟 "Well done is better than well said."
 
 — Benjamin Franklin
