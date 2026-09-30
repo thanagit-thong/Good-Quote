@@ -143,6 +143,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Life is either a daring adventure or nothing."
+
+— Helen Keller
+
+**The Source:** https://archive.org/details/letushavefaith00hele
+
+**Category:** Life
+
+**Added:** 2026-09-30
+
+
+
 ### 🌟 "We can act as if there were a God; feel as if we were free; consider Nature as if she were full of special designs; lay plans as if we were to be immortal; and we find then that these words do make a genuine difference in our moral life."
 
 — William James
