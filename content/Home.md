@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "The way to get started is to quit talking and begin doing."
+
+— Walt Disney
+
+**The Source:** https://www.penguinrandomhouse.com/books/728382/the-official-walt-disney-quote-book-by-walter-e-disney/
+
+**Category:** Work
+
+**Added:** 2026-10-01
+
+
+
 ### 🌟 "You can't use up creativity. The more you use, the more you have."
 
 — Maya Angelou
