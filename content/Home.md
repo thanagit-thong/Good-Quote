@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "There is surely nothing quite so useless as doing with great efficiency what should not be done at all."
+
+— Peter F. Drucker
+
+**The Source:** https://hbr.org/1963/05/managing-for-business-effectiveness
+
+**Category:** Work
+
+**Added:** 2026-10-02
+
+
+
 ### 🌟 "The way to get started is to quit talking and begin doing."
 
 — Walt Disney
