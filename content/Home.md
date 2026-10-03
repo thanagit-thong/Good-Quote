@@ -167,6 +167,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."
+
+— E. B. White
+
+**The Source:** https://www.nytimes.com/books/97/08/03/lifetimes/white-notes.html
+
+**Category:** Life
+
+**Added:** 2026-10-03
+
+
+
 ### 🌟 "Life is either a daring adventure or nothing."
 
 — Helen Keller
