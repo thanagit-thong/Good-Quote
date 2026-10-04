@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "The secret of joy in work is contained in one word — excellence. To know how to do something well is to enjoy it."
+
+— Pearl S. Buck
+
+**The Source:** https://books.google.com/books?id=UPD15Fbe_10C&pg=PA179
+
+**Category:** Work
+
+**Added:** 2026-10-04
+
+
+
 ### 🌟 "There is surely nothing quite so useless as doing with great efficiency what should not be done at all."
 
 — Peter F. Drucker
