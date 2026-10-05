@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The best way to find yourself is to lose yourself in the service of others."
+
+— Mahatma Gandhi
+
+**The Source:** https://www.gandhiheritageportal.org/cwmg_volume_thumbview/MzA=
+
+**Category:** Life
+
+**Added:** 2026-10-05
+
+
+
 ### 🌟 "I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."
 
 — E. B. White
