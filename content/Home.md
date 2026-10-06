@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Life shrinks or expands in proportion to one's courage."
+
+— Anaïs Nin
+
+**The Source:** https://theanaisninfoundation.substack.com/p/life-shrinks-or-expands
+
+**Category:** Life
+
+**Added:** 2026-10-06
+
+
+
 ### 🌟 "The best way to find yourself is to lose yourself in the service of others."
 
 — Mahatma Gandhi
