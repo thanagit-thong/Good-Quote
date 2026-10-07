@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The good life is one inspired by love and guided by knowledge."
+
+— Bertrand Russell
+
+**The Source:** https://www.gutenberg.org/files/73782/73782-h/73782-h.htm
+
+**Category:** Life
+
+**Added:** 2026-10-07
+
+
+
 ### 🌟 "Life shrinks or expands in proportion to one's courage."
 
 — Anaïs Nin
