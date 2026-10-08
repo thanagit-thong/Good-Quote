@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Try to be a rainbow in someone's cloud."
+
+— Maya Angelou
+
+**The Source:** https://www.virago.co.uk/virago-news/2020/10/28/read-an-extract-from-letters-to-my-daughter/
+
+**Category:** Life
+
+**Added:** 2026-10-08
+
+
+
 ### 🌟 "The good life is one inspired by love and guided by knowledge."
 
 — Bertrand Russell
