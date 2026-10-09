@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Do not go gentle into that good night,"
+
+— Dylan Thomas
+
+**The Source:** https://www.poetryfoundation.org/poems/46569/do-not-go-gentle-into-that-good-night
+
+**Category:** Life
+
+**Added:** 2026-10-09
+
+
+
 ### 🌟 "Try to be a rainbow in someone's cloud."
 
 — Maya Angelou
