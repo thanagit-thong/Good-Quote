@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "It is perfectly true, as the philosophers say, that life must be understood backwards. But they forget the other proposition, that it must be lived forwards."
+
+— Søren Kierkegaard
+
+**The Source:** https://blog.oup.com/2019/10/understanding-holocaust-in-context/
+
+**Category:** Life
+
+**Added:** 2026-10-10
+
+
+
 ### 🌟 "Do not go gentle into that good night,"
 
 — Dylan Thomas
