@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "To my way of thinking it is not the years in your life but the life in your years that count in the long run."
+
+— Adlai E. Stevenson II
+
+**The Source:** https://www.govinfo.gov/content/pkg/GPO-CRECB-1965-pt13/pdf/GPO-CRECB-1965-pt13-1-1.pdf
+
+**Category:** Life
+
+**Added:** 2026-10-11
+
+
+
 ### 🌟 "It is perfectly true, as the philosophers say, that life must be understood backwards. But they forget the other proposition, that it must be lived forwards."
 
 — Søren Kierkegaard
