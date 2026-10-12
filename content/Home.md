@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality."
+
+— Seneca (Lucius Annaeus Seneca)
+
+**The Source:** https://en.wikisource.org/wiki/Moral_Letters_to_Lucilius/Letter_XIII
+
+**Category:** Life
+
+**Added:** 2026-10-12
+
+
+
 ### 🌟 "To my way of thinking it is not the years in your life but the life in your years that count in the long run."
 
 — Adlai E. Stevenson II
