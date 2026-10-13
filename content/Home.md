@@ -179,6 +179,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Happiness is not something ready-made. It comes from your own actions."
+
+— Dalai Lama
+
+**The Source:** https://www.penguinrandomhouse.ca/books/530575/the-art-of-happiness-10th-anniversary-edition-by-dalai-lama/9781594488894
+
+**Category:** Life
+
+**Added:** 2026-10-13
+
+
+
 ### 🌟 "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality."
 
 — Seneca (Lucius Annaeus Seneca)
