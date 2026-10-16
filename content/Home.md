@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Work expands so as to fill the time available for its completion."
+
+— C. Northcote Parkinson
+
+**The Source:** https://archive.org/details/parkinsonslaworp0000park
+
+**Category:** Work
+
+**Added:** 2026-10-16
+
+
+
 ### 🌟 "The secret of joy in work is contained in one word — excellence. To know how to do something well is to enjoy it."
 
 — Pearl S. Buck
