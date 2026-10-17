@@ -191,6 +191,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+
+— Samuel Beckett
+
+**The Source:** https://books.google.com/books/about/Worstward_Ho.html?id=RHW2AAAAIAAJ
+
+**Category:** Life
+
+**Added:** 2026-10-17
+
+
+
 ### 🌟 "If a man knows the wherefore of his existence, then the manner of it can take care of itself."
 
 — Friedrich Nietzsche
