@@ -191,6 +191,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail."
+
+— Muriel Strode
+
+**The Source:** https://opensiuc.lib.siu.edu/ocj/vol1903/iss8/5/
+
+**Category:** Life
+
+**Added:** 2026-10-18
+
+
+
 ### 🌟 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 
 — Samuel Beckett
