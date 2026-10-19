@@ -191,6 +191,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Who looks outside dreams; who looks inside awakes."
+
+— C. G. Jung
+
+**The Source:** https://jungiancenter.org/wp-content/uploads/2023/09/letters-of-c-g-jung-vol-1-1906-1950.pdf
+
+**Category:** Life
+
+**Added:** 2026-10-19
+
+
+
 ### 🌟 "I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail."
 
 — Muriel Strode
