@@ -191,6 +191,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The only limit to our realization of tomorrow will be our doubts of today."
+
+— Franklin D. Roosevelt
+
+**The Source:** https://www.fdrlibrary.org/documents/356632/390886/freedomguide.pdf/ea490e73-0143-4a61-a06b-615ed4ad19c4
+
+**Category:** Life
+
+**Added:** 2026-10-20
+
+
+
 ### 🌟 "Who looks outside dreams; who looks inside awakes."
 
 — C. G. Jung
