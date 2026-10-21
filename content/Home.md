@@ -191,6 +191,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Look round at the courses of the stars, as if thou wert going along with them; and constantly consider the changes of the elements into one another; for such thoughts purge away the filth of the terrene life."
+
+— Marcus Aurelius
+
+**The Source:** https://classics.mit.edu/Antoninus/meditations.7.seven.html
+
+**Category:** Life
+
+**Added:** 2026-10-21
+
+
+
 ### 🌟 "The only limit to our realization of tomorrow will be our doubts of today."
 
 — Franklin D. Roosevelt
