@@ -191,6 +191,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "It does not do to dwell on dreams and forget to live, remember that."
+
+— J. K. Rowling
+
+**The Source:** https://www.harrypotter.com/features/important-pieces-of-dialogue-from-philosophers-stone
+
+**Category:** Life
+
+**Added:** 2026-10-22
+
+
+
 ### 🌟 "Look round at the courses of the stars, as if thou wert going along with them; and constantly consider the changes of the elements into one another; for such thoughts purge away the filth of the terrene life."
 
 — Marcus Aurelius
