@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Inspiration is for amateurs. The rest of us just show up and get to work."
+
+— Chuck Close
+
+**The Source:** https://books.google.com/books/about/Inside_the_Painter_s_Studio.html?id=ZiLe3woEtmwC
+
+**Category:** Work
+
+**Added:** 2026-10-23
+
+
+
 ### 🌟 "Work expands so as to fill the time available for its completion."
 
 — C. Northcote Parkinson
