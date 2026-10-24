@@ -203,6 +203,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "If you would not be forgotten, as soon as you are dead and rotten, either write things worth reading, or do things worth the writing."
+
+— Benjamin Franklin
+
+**The Source:** https://upload.wikimedia.org/wikipedia/commons/9/91/The_prefaces%2C_proverbs%2C_and_poems_of_Benjamin_Franklin_-_originally_printed_in_Poor_Richard%27s_almanacs_for_1733-1758_(IA_b24879381).pdf
+
+**Category:** Life
+
+**Added:** 2026-10-24
+
+
+
 ### 🌟 "It does not do to dwell on dreams and forget to live, remember that."
 
 — J. K. Rowling
