@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "I never dreamed about success. I worked for it."
+
+— Estée Lauder
+
+**The Source:** https://www.washingtonpost.com/archive/local/2004/04/26/estee-lauder-dies-at-age-97/241e8056-8d42-472a-a5e8-035bdcef4b25/
+
+**Category:** Work
+
+**Added:** 2026-10-25
+
+
+
 ### 🌟 "Inspiration is for amateurs. The rest of us just show up and get to work."
 
 — Chuck Close
