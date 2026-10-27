@@ -215,6 +215,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country."
+
+— John F. Kennedy
+
+**The Source:** https://www.jfklibrary.org/learn/about-jfk/historic-speeches/inaugural-address
+
+**Category:** Life
+
+**Added:** 2026-10-27
+
+
+
 ### 🌟 "Not everything that is faced can be changed; but nothing can be changed until it is faced."
 
 — James Baldwin
