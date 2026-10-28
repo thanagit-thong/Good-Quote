@@ -215,6 +215,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "A ship in harbor is safe, but that is not what ships are built for."
+
+— John A. Shedd
+
+**The Source:** https://quoteinvestigator.com/2013/12/09/safe-harbor/
+
+**Category:** Life
+
+**Added:** 2026-10-28
+
+
+
 ### 🌟 "And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country."
 
 — John F. Kennedy
