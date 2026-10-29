@@ -215,6 +215,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance."
+
+— Franklin D. Roosevelt
+
+**The Source:** https://www.fdrlibrary.org/documents/356632/390886/document003.pdf/ee286f5b-ce6b-4784-9b1f-176686e60959
+
+**Category:** Life
+
+**Added:** 2026-10-29
+
+
+
 ### 🌟 "A ship in harbor is safe, but that is not what ships are built for."
 
 — John A. Shedd
