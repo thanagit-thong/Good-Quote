@@ -215,6 +215,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The important thing is not to stop questioning. Curiosity has its own reason for existence."
+
+— Albert Einstein
+
+**The Source:** https://quoteinvestigator.com/2024/10/17/curiosity-reason/
+
+**Category:** Life
+
+**Added:** 2026-10-31
+
+
+
 ### 🌟 "It is the same with people as it is with riding a bike. Only when moving can one comfortably maintain one's balance."
 
 — Albert Einstein
