@@ -215,6 +215,19 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Tell me, what is it you plan to do
+with your one wild and precious life?"
+
+— Mary Oliver
+
+**The Source:** https://poets.org/poem/summer-day
+
+**Category:** Life
+
+**Added:** 2026-11-01
+
+
+
 ### 🌟 "The important thing is not to stop questioning. Curiosity has its own reason for existence."
 
 — Albert Einstein
