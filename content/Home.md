@@ -215,6 +215,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The purpose of our lives is to be happy."
+
+— Tenzin Gyatso (The 14th Dalai Lama)
+
+**The Source:** https://www.dalailama.com/news/2018/launch-of-happiness-curriculum-for-delhi-schools
+
+**Category:** Life
+
+**Added:** 2026-11-02
+
+
+
 ### 🌟 "Tell me, what is it you plan to do
 with your one wild and precious life?"
 
