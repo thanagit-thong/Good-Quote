@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "A good plan violently executed now is better than a perfect plan next week."
+
+— George S. Patton, Jr.
+
+**The Source:** https://webharvest.gov/peth04/20041015160655/www.dtic.mil/doctrine/jel/new_pubs/jp5_0.pdf#page=1
+
+**Category:** Work
+
+**Added:** 2026-11-03
+
+
+
 ### 🌟 "I never dreamed about success. I worked for it."
 
 — Estée Lauder
