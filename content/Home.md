@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "I am a great believer in luck. The harder I work, the more of it I seem to have."
+
+— Coleman Cox
+
+**The Source:** https://hdl.handle.net/2027/mdp.39076005053058?urlappend=%3Bseq=9
+
+**Category:** Work
+
+**Added:** 2026-11-04
+
+
+
 ### 🌟 "A good plan violently executed now is better than a perfect plan next week."
 
 — George S. Patton, Jr.
