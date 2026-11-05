@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Perfection is not attainable, but if we chase perfection we can catch excellence."
+
+— Vince Lombardi
+
+**The Source:** https://books.google.com/books?id=bcx8EAAAQBAJ
+
+**Category:** Work
+
+**Added:** 2026-11-05
+
+
+
 ### 🌟 "I am a great believer in luck. The harder I work, the more of it I seem to have."
 
 — Coleman Cox
