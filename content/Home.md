@@ -251,6 +251,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Your time is limited, so don't waste it living someone else's life."
+
+— Steve Jobs
+
+**The Source:** https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish?view=print
+
+**Category:** Life
+
+**Added:** 2026-11-06
+
+
+
 ### 🌟 "The purpose of our lives is to be happy."
 
 — Tenzin Gyatso (The 14th Dalai Lama)
