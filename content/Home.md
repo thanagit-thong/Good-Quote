@@ -251,6 +251,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Tell me, what is it you plan to do with your one wild and precious life?"
+
+— Mary Oliver
+
+**The Source:** https://maryoliver.beacon.org/2011/06/mary-oliver-reads-the-summer-day/index.html
+
+**Category:** Life
+
+**Added:** 2026-11-07
+
+
+
 ### 🌟 "Your time is limited, so don't waste it living someone else's life."
 
 — Steve Jobs
