@@ -251,6 +251,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "But man is not made for defeat. A man can be destroyed but not defeated."
+
+— Ernest Hemingway
+
+**The Source:** https://www.simonandschuster.com/books/Old-Man-and-the-Sea/Ernest-Hemingway/9780684801223
+
+**Category:** Life
+
+**Added:** 2026-11-08
+
+
+
 ### 🌟 "Tell me, what is it you plan to do with your one wild and precious life?"
 
 — Mary Oliver
