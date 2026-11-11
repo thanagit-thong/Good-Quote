@@ -251,6 +251,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "No one can make you feel inferior without your consent."
+
+— Eleanor Roosevelt
+
+**The Source:** https://quoteinvestigator.com/2011/03/30/not-inferior/
+
+**Category:** Life
+
+**Added:** 2026-11-11
+
+
+
 ### 🌟 "He says the best way out is always through."
 
 — Robert Frost
