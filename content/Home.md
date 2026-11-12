@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "I tell this story to illustrate the truth of the statement I heard long ago in the Army: Plans are worthless, but planning is everything."
+
+— Dwight D. Eisenhower
+
+**The Source:** https://www.presidency.ucsb.edu/documents/remarks-the-national-defense-executive-reserve-conference
+
+**Category:** Work
+
+**Added:** 2026-11-12
+
+
+
 ### 🌟 "Perfection is not attainable, but if we chase perfection we can catch excellence."
 
 — Vince Lombardi
