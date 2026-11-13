@@ -263,6 +263,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "Begin at once to live, and count each separate day as a separate life."
+
+— Seneca (Lucius Annaeus Seneca)
+
+**The Source:** https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101
+
+**Category:** Life
+
+**Added:** 2026-11-13
+
+
+
 ### 🌟 "No one can make you feel inferior without your consent."
 
 — Eleanor Roosevelt
