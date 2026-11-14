@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "Just as work is the curse of the drinking classes of this country, so education is the curse of the acting classes."
+
+— Oscar Wilde
+
+**The Source:** https://www.gutenberg.org/cache/epub/3662/pg3662.html
+
+**Category:** Work
+
+**Added:** 2026-11-14
+
+
+
 ### 🌟 "I tell this story to illustrate the truth of the statement I heard long ago in the Army: Plans are worthless, but planning is everything."
 
 — Dwight D. Eisenhower
