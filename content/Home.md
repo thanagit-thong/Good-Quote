@@ -16,6 +16,18 @@ Good Quote can be a wake up call, life saver, reminder, time stopper, or acceler
 
 ## Quote for your Work
 
+### 🌟 "We live by each other and for each other. Alone we can do so little; together we can do so much."
+
+— Helen Keller
+
+**The Source:** https://www.afb.org/about-afb/history/helen-keller/quotes/helen-keller-quotes-progress
+
+**Category:** Work
+
+**Added:** 2026-11-15
+
+
+
 ### 🌟 "Just as work is the curse of the drinking classes of this country, so education is the curse of the acting classes."
 
 — Oscar Wilde
