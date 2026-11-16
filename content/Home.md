@@ -287,6 +287,18 @@ Before trying to change a company, a community, or the world, you must first est
 ------------------
 ## Quote for your Life
 
+### 🌟 "The question is not what you look at, but what you see."
+
+— Henry David Thoreau
+
+**The Source:** https://www.gutenberg.org/files/59031/59031-h/59031-h.htm
+
+**Category:** Life
+
+**Added:** 2026-11-16
+
+
+
 ### 🌟 "Begin at once to live, and count each separate day as a separate life."
 
 — Seneca (Lucius Annaeus Seneca)
